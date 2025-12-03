@@ -1,2 +1,9 @@
-# SMITH-A-Standardized-Microwave-Wideband-Dataset-for-Inverse-Filter-Synthesis
-Anonymous repository for International Microwave Symposium 2026. This repository follows the instructions for double-blind review.
+## 📦 Dataset Download
+
+You can download the full dataset (~3 GB) from the following anonymous link:
+
+👉 FR4 5mm_5mm 50_50 https://drive.google.com/file/d/1NJmxyKWc67nZSbH6sVUf3yYS5DVf457J/view?usp=sharing
+
+👉 Rogers 4350B 10mm_10m_50_50 https://drive.google.com/file/d/1be-Qh6ofLJORxEqhmWyUc_KQvglF0f_C/view?usp=sharing
+
+👉 Rogers 4350B 5mm_5mm_50_50 https://drive.google.com/file/d/16ZLp1i3anOagDLGyBuoiB4_Th9GTG3lR/view?usp=sharing
